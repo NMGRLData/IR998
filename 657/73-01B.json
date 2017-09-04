@@ -1,0 +1,142 @@
+{
+    "acquisition_software": "Pychron17.7(Exp0.2,DVC0.1)", 
+    "aliquot": 1, 
+    "analysis_type": "unknown", 
+    "analyst_name": "MHeizler", 
+    "comment": "B:2 GMC, 10.36 mg", 
+    "commit": "9b8763db4307963d8e8c3d7888810e44c3bf18d6", 
+    "conditionals": [
+        {
+            "analysis_types": null, 
+            "frequency": 10, 
+            "hash_id": -530729609918142714, 
+            "level": 10, 
+            "location": "setupfiles/spectrometer/default_conditionals.yaml", 
+            "ntrips": 1, 
+            "start_count": 5, 
+            "teststr": "L2(CDD).deflection==3250"
+        }
+    ], 
+    "data_reduction_software": "Pychron17.7(DVC0.1)", 
+    "detectors": {
+        "AX": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L2(CDD)": {
+            "deflection": 0.0, 
+            "gain": 0
+        }
+    }, 
+    "environmental": {
+        "lab_humiditys": [
+            {
+                "device": "EnvironmentalMonitor", 
+                "name": "Lab Hum.", 
+                "pub_date": "2017-09-04T14:02:50", 
+                "title": "iServer Hum.", 
+                "value": 37.3
+            }
+        ], 
+        "lab_pneumatics": [
+            {
+                "device": "AirPressure", 
+                "name": "Pressure", 
+                "pub_date": "2017-09-04T14:05:45", 
+                "title": null, 
+                "value": 99.375
+            }, 
+            {
+                "device": "AirPressure2", 
+                "name": "Pressure2", 
+                "pub_date": "2017-09-04T14:05:45", 
+                "title": null, 
+                "value": 101.42236
+            }
+        ], 
+        "lab_temperatures": [
+            {
+                "device": "Coldfinger", 
+                "name": "ColdFinger Temp.", 
+                "pub_date": "2017-09-04T14:02:50", 
+                "title": null, 
+                "value": -194.0
+            }, 
+            {
+                "device": "EnvironmentalMonitor", 
+                "name": "Lab Temp.", 
+                "pub_date": "2017-09-04T13:41:46", 
+                "title": "iServer Temp.", 
+                "value": 74.8
+            }, 
+            {
+                "device": "Chiller", 
+                "name": "Coolant Temp.", 
+                "pub_date": "2017-09-04T13:58:43", 
+                "title": null, 
+                "value": 18.0
+            }
+        ]
+    }, 
+    "extraction": "felix_diode.py", 
+    "identifier": "65773", 
+    "increment": 1, 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NM-291", 
+    "irradiation_level": "B", 
+    "irradiation_position": 2, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2(CDD)", 
+            "name": "Ar36"
+        }, 
+        "Ar37": {
+            "detector": "L1", 
+            "name": "Ar37"
+        }, 
+        "Ar38": {
+            "detector": "AX", 
+            "name": "Ar38"
+        }, 
+        "Ar39": {
+            "detector": "H1", 
+            "name": "Ar39"
+        }, 
+        "Ar40": {
+            "detector": "H2", 
+            "name": "Ar40"
+        }
+    }, 
+    "laboratory": "", 
+    "mass_spectrometer": "Felix", 
+    "material": "Groundmass", 
+    "measurement": "felix_analysis400_120_no_save_center.py", 
+    "post_equilibration": "felix_pump_extraction_line.py", 
+    "post_measurement": "felix_pump_ms.py", 
+    "project": "IR998", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "IR998", 
+    "sample": "SI-16-67", 
+    "source": {
+        "emission": 886.224, 
+        "trap": 248.607
+    }, 
+    "spec_sha": "44c6f8761147de90179e8a3952e48831c78a9a46", 
+    "timestamp": "2017-09-04T14:06:50.608094", 
+    "tripped_conditional": null, 
+    "username": "MHeizler", 
+    "uuid": "4688fbbd-14e0-4923-b72f-00264b1a8955", 
+    "whiff_result": null
+}
