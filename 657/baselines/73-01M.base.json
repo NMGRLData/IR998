@@ -39,6 +39,7 @@
         "fn": 114,
         "include_baseline_error": false,
         "n": 120,
+        "reviewed": true,
         "value": -0.022376589352477407
     },
     "L1": {
@@ -67,6 +68,7 @@
         "fn": 119,
         "include_baseline_error": false,
         "n": 120,
+        "reviewed": true,
         "value": 0.0
     }
 }
