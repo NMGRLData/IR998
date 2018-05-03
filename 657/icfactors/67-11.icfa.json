@@ -122,8 +122,8 @@
         "value": 0.996625847115577
     },
     "CDD": {
-        "error": 0.002412837402447678,
-        "fit": "Linear",
+        "error": 0.0008371836954392336,
+        "fit": "Average",
         "references": [
             {
                 "exclude": "ok",
@@ -172,7 +172,7 @@
             }
         ],
         "reviewed": true,
-        "value": 1.006891814661151
+        "value": 1.00718224882437
     },
     "H1": {
         "error": 1e-20,
