@@ -1,8 +1,8 @@
 {
     "Ar36": {
-        "error": 0.00031367301243766075,
+        "error": 0.00047164151229007925,
         "filter_outliers_dict": {
-            "filter_outliers": true,
+            "filter_outliers": false,
             "iterations": 1,
             "std_devs": 2
         },
@@ -11,12 +11,12 @@
         "include_baseline_error": false,
         "n": 120,
         "reviewed": true,
-        "value": 0.012938781794149829
+        "value": 0.01365361700125581
     },
     "Ar37": {
-        "error": 0.00992227683666046,
+        "error": 0.011339725917604355,
         "filter_outliers_dict": {
-            "filter_outliers": true,
+            "filter_outliers": false,
             "iterations": 1,
             "std_devs": 2
         },
@@ -25,12 +25,12 @@
         "include_baseline_error": false,
         "n": 120,
         "reviewed": true,
-        "value": 1.8916995592751678
+        "value": 1.8833203187909087
     },
     "Ar38": {
-        "error": 0.005936547559355124,
+        "error": 0.0063412084441146765,
         "filter_outliers_dict": {
-            "filter_outliers": true,
+            "filter_outliers": false,
             "iterations": 1,
             "std_devs": 2
         },
@@ -39,12 +39,12 @@
         "include_baseline_error": false,
         "n": 120,
         "reviewed": true,
-        "value": 2.9829158658282173
+        "value": 2.9829387560619063
     },
     "Ar39": {
-        "error": 0.026621479986052816,
+        "error": 0.030174720018439707,
         "filter_outliers_dict": {
-            "filter_outliers": true,
+            "filter_outliers": false,
             "iterations": 1,
             "std_devs": 2
         },
@@ -53,12 +53,12 @@
         "include_baseline_error": false,
         "n": 120,
         "reviewed": true,
-        "value": 232.68166223723892
+        "value": 232.72112842112114
     },
     "Ar40": {
-        "error": 0.04516279412566959,
+        "error": 0.048212163828770804,
         "filter_outliers_dict": {
-            "filter_outliers": true,
+            "filter_outliers": false,
             "iterations": 1,
             "std_devs": 2
         },
@@ -67,7 +67,7 @@
         "include_baseline_error": false,
         "n": 120,
         "reviewed": true,
-        "value": 726.2392564688298
+        "value": 726.2732190715337
     },
     "Ar41": {
         "error": 0.003492070501982626,
