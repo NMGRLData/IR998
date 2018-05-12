@@ -7,7 +7,7 @@
             "std_devs": 2
         },
         "fit": "Average",
-        "fn": 17,
+        "fn": 18,
         "include_baseline_error": false,
         "n": 18,
         "reviewed": true,
@@ -62,7 +62,7 @@
             "std_devs": 2
         },
         "fit": "Average",
-        "fn": 17,
+        "fn": 18,
         "include_baseline_error": false,
         "n": 18,
         "reviewed": true,
@@ -76,7 +76,7 @@
             "std_devs": 2
         },
         "fit": "Average",
-        "fn": 17,
+        "fn": 18,
         "include_baseline_error": false,
         "n": 18,
         "reviewed": true,
