@@ -1,7 +1,7 @@
 {
     "Ar36": {
-        "error": 0.00041082890536163355,
-        "fit": "Preceding",
+        "error": 0.00029586563820523185,
+        "fit": "Bracketing Interpolate",
         "references": [
             {
                 "exclude": "ok",
@@ -90,11 +90,11 @@
             }
         ],
         "reviewed": true,
-        "value": 0.024717594104434464
+        "value": 0.02372264365432797
     },
     "Ar37": {
-        "error": 0.0053326673712904985,
-        "fit": "Preceding",
+        "error": 0.004426047279432388,
+        "fit": "Bracketing Interpolate",
         "references": [
             {
                 "exclude": "ok",
@@ -183,11 +183,11 @@
             }
         ],
         "reviewed": true,
-        "value": 0.051509680729813594
+        "value": 0.051257866763365634
     },
     "Ar38": {
-        "error": 0.0026834890395905616,
-        "fit": "Preceding",
+        "error": 0.002024846918773693,
+        "fit": "Bracketing Interpolate",
         "references": [
             {
                 "exclude": "ok",
@@ -276,11 +276,11 @@
             }
         ],
         "reviewed": true,
-        "value": 0.019876851381828806
+        "value": 0.01675468352579107
     },
     "Ar39": {
-        "error": 0.011818546387334043,
-        "fit": "Preceding",
+        "error": 0.008682893390219786,
+        "fit": "Bracketing Interpolate",
         "references": [
             {
                 "exclude": "ok",
@@ -369,11 +369,11 @@
             }
         ],
         "reviewed": true,
-        "value": 0.07484086577101845
+        "value": 0.04780176631705757
     },
     "Ar40": {
-        "error": 0.02044276625273809,
-        "fit": "Preceding",
+        "error": 0.01877893238739366,
+        "fit": "Bracketing Interpolate",
         "references": [
             {
                 "exclude": "ok",
@@ -462,7 +462,7 @@
             }
         ],
         "reviewed": true,
-        "value": 6.389722546236872
+        "value": 6.3800422798657905
     },
     "Ar41": {
         "error": 0.005535795063772108,

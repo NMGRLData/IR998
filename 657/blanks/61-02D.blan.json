@@ -1,7 +1,7 @@
 {
     "Ar36": {
-        "error": 0.00043046770502836547,
-        "fit": "Preceding",
+        "error": 0.0002360363498167205,
+        "fit": "Bracketing Interpolate",
         "references": [
             {
                 "exclude": "ok",
@@ -90,11 +90,11 @@
             }
         ],
         "reviewed": true,
-        "value": 0.024997410316243116
+        "value": 0.023949163168960057
     },
     "Ar37": {
-        "error": 0.00524267298197345,
-        "fit": "Preceding",
+        "error": 0.0034422067982608864,
+        "fit": "Bracketing Interpolate",
         "references": [
             {
                 "exclude": "ok",
@@ -183,11 +183,11 @@
             }
         ],
         "reviewed": true,
-        "value": 0.04899360936853029
+        "value": 0.05204829259827792
     },
     "Ar38": {
-        "error": 0.002880113612606007,
-        "fit": "Preceding",
+        "error": 0.0016341848373358507,
+        "fit": "Bracketing Interpolate",
         "references": [
             {
                 "exclude": "ok",
@@ -276,11 +276,11 @@
             }
         ],
         "reviewed": true,
-        "value": 0.024213300363121033
+        "value": 0.018517544990293677
     },
     "Ar39": {
-        "error": 0.010739857494607928,
-        "fit": "Preceding",
+        "error": 0.006674703957296519,
+        "fit": "Bracketing Interpolate",
         "references": [
             {
                 "exclude": "ok",
@@ -369,11 +369,11 @@
             }
         ],
         "reviewed": true,
-        "value": 0.06651958879561665
+        "value": 0.04512434854180969
     },
     "Ar40": {
-        "error": 0.01742650130216042,
-        "fit": "Preceding",
+        "error": 0.014006074666272319,
+        "fit": "Bracketing Interpolate",
         "references": [
             {
                 "exclude": "ok",
@@ -462,7 +462,7 @@
             }
         ],
         "reviewed": true,
-        "value": 6.198142991143182
+        "value": 6.360955288457262
     },
     "Ar41": {
         "error": 0.0039043514929921765,
