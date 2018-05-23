@@ -1,0 +1,20 @@
+{
+    "age": 15.248309645056636,
+    "age_err": 0.002263831977086784,
+    "age_kind": "Weighted Mean",
+    "ages": {
+        "integrated_age": 15.249249692483678,
+        "integrated_age_err": 0.026582408135303905,
+        "isochron_age": 15.236853126125945,
+        "isochron_age_err": 0.012174483282813038,
+        "plateau_age": 0.0,
+        "plateau_age_err": 0.0,
+        "weighted_age": 15.248309645056636,
+        "weighted_age_err": 0.002263831977086784
+    },
+    "analyses": [
+        {
+            "age": 15.261579005065128,
+            "age_err": 0.008103122043612182,
+            "age_err_wo_j": 0.008103122043612182,
+            "kca": 
