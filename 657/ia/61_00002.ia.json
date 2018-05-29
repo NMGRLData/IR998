@@ -1,23 +1,49 @@
 {
-    "age": 10.718658834848462,
-    "age_err": 0.01759149509533439,
-    "age_error_kind": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-    "age_kind": "Weighted Mean",
+    "age": 10.699054658095516,
+    "age_err": 0.0014988025149511221,
     "ages": {
-        "integrated_age": 10.72252709248825,
-        "integrated_age_err": 0.018772435359693182,
-        "isochron_age": 10.657152186932619,
-        "isochron_age_err": Infinity,
-        "plateau_age": 0.0,
-        "plateau_age_err": 0.0,
-        "weighted_age": 10.718658834848462,
-        "weighted_age_err": 0.01759149509533439
+        "integrated_age": 10.713030892524747,
+        "integrated_age_err": 0.018656906281717383,
+        "isochron_age": 10.688164552668729,
+        "isochron_age_err": 0.01053793630286678,
+        "plateau_age": 10.699054658095516,
+        "plateau_age_err": 0.0014988025149511221,
+        "weighted_age": 10.711066368628426,
+        "weighted_age_err": 0.0058854134605450074
     },
     "analyses": [
         {
+            "age": 10.722567529290448,
+            "age_err": 0.003062367093060498,
+            "age_err_wo_j": 0.003062367093060498,
+            "kca": 39.44055664817245,
+            "kca_err": 0.2121422481589257,
+            "kcl": 5240.6114253928745,
+            "kcl_err": 192.22330948982975,
+            "plateau_step": false,
+            "radiogenic_yield": 99.60405747941425,
+            "record_id": "65761-04",
+            "tag": "ok",
+            "uuid": "4f17e920-2241-46ff-a336-6432730265a9"
+        },
+        {
+            "age": 10.75189100951123,
+            "age_err": 0.005480068535964897,
+            "age_err_wo_j": 0.005480068535964897,
+            "kca": 38.443883931377655,
+            "kca_err": 0.5686092683972955,
+            "kcl": 4119.926229338393,
+            "kcl_err": 222.56106169531617,
+            "plateau_step": false,
+            "radiogenic_yield": 99.21605150939592,
+            "record_id": "65761-05",
+            "tag": "ok",
+            "uuid": "5d9e3f29-1803-4f9f-99a3-b76df13001f2"
+        },
+        {
             "age": 10.732218082922458,
-            "age_err": 0.0027676926347553732,
-            "age_err_wo_j": 0.0027676926347553732,
+            "age_err": 0.002767692634755373,
+            "age_err_wo_j": 0.002767692634755373,
             "kca": 39.79484724579708,
             "kca_err": 0.12722468407425644,
             "kcl": 4712.556971783112,
@@ -29,18 +55,88 @@
             "uuid": "535c11b6-2b43-4647-916d-220a7e639ba8"
         },
         {
+            "age": 10.695986346587517,
+            "age_err": 0.0046746017308785595,
+            "age_err_wo_j": 0.0046746017308785595,
+            "kca": 41.52916116194254,
+            "kca_err": 0.6194047361074708,
+            "kcl": 4043.9395069216494,
+            "kcl_err": 198.36380301511636,
+            "plateau_step": true,
+            "radiogenic_yield": 99.33540509813346,
+            "record_id": "65761-07",
+            "tag": "ok",
+            "uuid": "106d1c46-df06-4868-839f-e43bd5d94555"
+        },
+        {
+            "age": 10.697809937297187,
+            "age_err": 0.0027690716744713166,
+            "age_err_wo_j": 0.0027690716744713166,
+            "kca": 40.64758057918028,
+            "kca_err": 0.1991447374229154,
+            "kcl": 4894.767859349295,
+            "kcl_err": 156.32853354008432,
+            "plateau_step": true,
+            "radiogenic_yield": 99.61677926680196,
+            "record_id": "65761-08",
+            "tag": "ok",
+            "uuid": "2b02f06f-e7ac-4dea-89d7-7c4a3745eeca"
+        },
+        {
             "age": 10.695835983758167,
-            "age_err": 0.0035907486273569138,
-            "age_err_wo_j": 0.0035907486273569138,
+            "age_err": 0.0035907486273569133,
+            "age_err_wo_j": 0.0035907486273569133,
             "kca": 42.386944481826276,
             "kca_err": 0.4017459444277408,
             "kcl": 4419.099842148512,
             "kcl_err": 169.45231739917344,
-            "plateau_step": false,
+            "plateau_step": true,
             "radiogenic_yield": 99.51948802321704,
             "record_id": "65761-09",
             "tag": "ok",
             "uuid": "4d3cf15d-b3ae-413b-9244-2a5ec46ebae3"
+        },
+        {
+            "age": 10.696237344375328,
+            "age_err": 0.0046795036393908526,
+            "age_err_wo_j": 0.0046795036393908526,
+            "kca": 36.05845095562652,
+            "kca_err": 0.4271720848666366,
+            "kcl": 4154.6936650013895,
+            "kcl_err": 204.9329023523957,
+            "plateau_step": true,
+            "radiogenic_yield": 99.41552165835677,
+            "record_id": "65761-10",
+            "tag": "ok",
+            "uuid": "450d8aab-935c-4966-83ef-562aa6c8a204"
+        },
+        {
+            "age": 10.703064373522476,
+            "age_err": 0.0026953383404883006,
+            "age_err_wo_j": 0.0026953383404883006,
+            "kca": 37.352188566625195,
+            "kca_err": 0.1416805848313687,
+            "kcl": 4787.759070565025,
+            "kcl_err": 142.51328327916977,
+            "plateau_step": true,
+            "radiogenic_yield": 99.5539687737633,
+            "record_id": "65761-11",
+            "tag": "ok",
+            "uuid": "01709104-2f61-491d-ae7c-4fe1d71c6a4d"
+        },
+        {
+            "age": 10.714990489297875,
+            "age_err": 0.011110024238417206,
+            "age_err_wo_j": 0.011110024238417206,
+            "kca": 25.51081681383257,
+            "kca_err": 0.6360200910625995,
+            "kcl": 2994.381182673077,
+            "kcl_err": 355.05542482874034,
+            "plateau_step": true,
+            "radiogenic_yield": 99.18211873692229,
+            "record_id": "65761-12",
+            "tag": "ok",
+            "uuid": "f60cb20f-1b31-48ef-9a26-d96e96fdd204"
         }
     ],
     "arar_constants": {
@@ -66,9 +162,6 @@
     "include_j_error_in_mean": true,
     "include_j_error_in_plateau": true,
     "irradiation": "NM-291",
-    "kca": 40.03110469549417,
-    "kca_err": 0.12128821724883779,
-    "kca_kind": "Weighted Mean",
     "macrochron": {
         "lithology": "",
         "lithology_class": "",
@@ -79,10 +172,47 @@
         "rlocation": ""
     },
     "material": "Feldspar",
-    "mswd": 64.40026340342084,
-    "name": "06",
-    "nanalyses": 2,
+    "mswd": 24.788105407098772,
+    "name": "04",
+    "nanalyses": 9,
+    "preferred_kinds": [
+        {
+            "attr": "age",
+            "error": 0.019897564557924678,
+            "error_kind": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+            "kind": "Plateau else Weighted Mean",
+            "value": 10.712289010729187
+        },
+        {
+            "attr": "kca",
+            "error": 0.762874063681648,
+            "error_kind": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+            "kind": "Weighted Mean",
+            "value": 38.97060257104665
+        },
+        {
+            "attr": "kcl",
+            "error": 154.7090349211206,
+            "error_kind": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+            "kind": "Weighted Mean",
+            "value": 4573.087284718857
+        },
+        {
+            "attr": "rad40_percent",
+            "error": 0.04480690412709076,
+            "error_kind": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+            "kind": "Weighted Mean",
+            "value": 99.49598053266062
+        },
+        {
+            "attr": "moles_k39",
+            "error": 2.530803645422872e-15,
+            "error_kind": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+            "kind": "Weighted Mean",
+            "value": 8.166529104912994e-15
+        }
+    ],
     "project": "IR998",
     "sample": "MS-13-09",
-    "uuid": "dd5bd5c9-bd10-4046-8593-91978515391d"
+    "uuid": "46f2c27b-1e1a-42f3-9824-5ab05e3d1966"
 }
